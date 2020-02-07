@@ -1,4 +1,4 @@
- <div class="post">
+ <div class="post" id="christian_utigard">
   <p>
 as a student i worked at this concert venue along other students. all on a volunteer basis. i made posters and such, you know, work that isn't really work. i was in it for short hours, cheap beer and free concerts. once every semester we had to do some actual volunteer work around the venue. cleaning, lime plastering the walls, take old syringes out of the brick wall gaps, stuff like that. as a reward for spending a hungover sunday we always got a free dinner. very often it was spaghetti and mince. first come first serve. for some reason i was late to dinner, and what was left was just this big ball of overcooked spaghetti in the bottom of this enormous casserole. you could scoop it like ice cream. tepid, dry and savory ice cream. it wasn't life changing or anything. it's for sure a dish i would comment on the ‘mouthfeel' of if i ever was a judge on masterchef. telling the contestants that to check if it was done, they can just throw spaghetti at the kitchen cabinets.
 
@@ -16,7 +16,7 @@ Christian Utigard. A professional. Writer of such classics as "thirties" and "em
   
   
   
-   <div class="post">
+   <div class="post" id="giacomo_pope">
   <p>
 I eat too fast. I'm often loading up my fork with a mouth full of food before I've started chewing the last. As I chew I open my mouth and I mix up all that chewed food with the new stuff. It means I can eat more. I can endlessly eat if I do it fast enough. I remember being in a restaurant with my dad. We were sat outside. We were sitting together and we were eating spaghetti. They had added seafood and tomato to the spaghetti. I had to go slowly to avoid clam shell splitting under my teeth and cutting into my gums. I was eating this big ball of wrapped up spaghetti and it was red and warm and I bit down through the soft spaghetti. I bit straight into a shell. It hurt. I went to yell with my mouth all full and warm and I choked. I tried to breath and I was choking then I sneezed. There was a violent mess of red and fish and bleeding gums and two lines of unthawed spaghetti hanging from my nose.
 
@@ -36,7 +36,7 @@ Giacomo can only eat spaghetti when it’s gluten free.
   
   
   
-   <div class="post">
+   <div class="post" id="blake_middleton">
   <p>
 When I was a kid I used to put blue-dyed spray butter on my spaghetti. Sometimes I would squirt the butter in my mouth. I was overweight as a child.
   </p>
@@ -55,7 +55,7 @@ Blake Middleton is the author of College Novel. He lives in Jacksonville.</p>
   
   
   
-     <div class="post">
+     <div class="post" id="cavin_bryce_gonzalez">
   <p>
 I was 20 years old, maybe 21. Tinder was my primary source of socialization outside of my Bro-Group.<br>
 Tinder was easy. Emotionless. Drunk sex. Wake up hungover but satisfied. Satiated. Log on, do it again.<br>
@@ -97,7 +97,7 @@ Cavin Bryce Gonzalez is the founder of Back Patio Press. He has many regrets.
   
   
     
-     <div class="post">
+     <div class="post" id="jennifer_greidus">
   <p>
 okay, so i'm 14? my mom and i live alone in PA, poverty, no dad she has 3 jobs, i have to have a job to help pay for living, and she's a big trash picker. we would go out on trash eve and look through the good stuff. we lived in a HUD duplex that had not been painted in at least 15 years, carpets, etc., older than that. she smokes two packs a day, so in addition to time, her smoke has stained everything. we strike it rich with two gallon cans of medium yellow indoor matte paint. they are half-full each, bit old, but once we stirred them, viable. we decide to paint the kitchen, which has been cracked and grey/smoke-stained for years. we spring for spackle and borrow two rollers from neighbors.<br><br>
 it takes us the weekend and it looks okay, feels brighter, feels good to be able to improve our surroundings a bit. (of course, she starts smoking immediately, as celebration.) we have dry spaghetti, wesson, and a jar of ragu in the cupboard. we have not-moldy shake cheese! celebration again! boil water with a little oil and salt so nothing clumps, dump in the spaghetti. wait! things are floating in the water. okay, okay. weevils or whatever. fine. we know how to get them out using dry paper towels and a spoon. i was excited to show her what i learned about 'al dente!' home ec or something, i guess. at 8 minutes, i fish a strand out of the pot and fling it against the wall. "if it sticks, it's done!" it stuck. i peeled it away, and the oil stain remained there until we moved four years later.
@@ -117,7 +117,7 @@ Jennifer Greidus is the co-founder and editor of XRAY Literary Magazine. She liv
   
   
   
-     <div class="post">
+     <div class="post" id="tom_lepaige">
   <p>
 i tried to think of my first spaghetti memory. i conjure a probably television-tinged composite of a messy baby with sketties on its face and bib and plastic booster tray but i'm pretty sure that isn't me. <br>
 i remember strega nona. strega nona is a children's book where an old italian woman who somehow makes an ever expanding pot of spaghetti that swallows her house and town.<br>
@@ -139,7 +139,7 @@ Tom
   
   
   
-       <div class="post">
+       <div class="post" id="mike_andrelczyk">
   <p>
 Sadly spaghetti is slowly killing me. I think when I eat spaghetti I eat too much of it. Why do your favorite things kill you? I have tried edamame-based spaghetti, it's ok. But I need that pure spaghetti. I don't remember the first time I ate spaghetti but I remember going to a place called the Spaghetti Factory in Pittsburgh on a family trip. It was good. We went to a Pirates vs San Diego Padres double header after that. When I was younger I wanted to be a major league baseball player but then I ate too much spaghetti. I mean that was part of it. The failure to realize my dream had something to do with being lazy and eating too much spaghetti. I used to rewind the scene in Goodfellas — the prison dinner scene where they are cutting the garlic and preparing the meal. The first time I saw Goodfellas I went out and stole some cigarettes from Turkey Hill. Then me and my brother and stepbrothers bought cap guns and jumped out of bushes and surprised joggers and popped off the cap guns. Seems insane now. I jog now and would be pissed if that happened. It's crazy what you do when you're a kid. And it's weird that spaghetti is connected to mafia movies and murder. For a while, we got into stealing the little chrome tire caps from luxury cars and putting them on our bikes. One time we were on our way to visit our aunt and we were at the train station in Philly and we were gonna steal the caps from this BMW. It turned out to belong to the Philadelphia Phillies center fielder Lenny Dykstra. Later I saw him in the train station. I went up (I was like 12) and introduced myself and said I played baseball too and he interrupted me and asked how to find the 2 p.m. train from DC. I showed him how you look at the schedule. I was pretty surprised he couldn't figure it out. I remember hearing that Lenny Dystra never read books. But he got rich from stocks and a car wash scam I think. I think he's kind of fucked up now. Anyway making pasta is easy. And fun. I really like farfalle. I'm writing this at a conference about growing hemp. This guy keeps saying the name Hawaiian Haze and Bubba Kush. He said he named a lot of the plants. He seems pretty excited. I think it's easy to eat a lot of spaghetti. That's one of my problems I guess.<br>
 <br>
