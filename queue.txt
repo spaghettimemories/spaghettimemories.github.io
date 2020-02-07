@@ -127,7 +127,7 @@ this book was banned in some libraries for depicting magic and witches in a posi
   <p class="date">2/13/2020</p>
 
   <p class="bio">
-Tom
+Tom tweets <a href="https://twitter.com/sighpilot" target="_blank">@sighpilot</a>. He made spaghetti and meatballs last Sunday.
 </p>
   </div>
   
