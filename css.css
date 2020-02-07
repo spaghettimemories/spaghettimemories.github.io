@@ -4,6 +4,7 @@ body{
   font-size: 16px;
   color: #202020;
   margin: 0;
+  opacity:.7;
 }
 
 .spaghetti{
@@ -36,6 +37,7 @@ body{
 .title h1 {
   font-size: 4em;
   margin-bottom: -1.2rem;
+  margin-top:0;
   padding-bottom: 0;
 }
 
@@ -48,13 +50,18 @@ h2 {
 
 p.date{
   font-style: italic;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 p.bio{
   font-style: italic;
-  padding-top: 2em;
+  padding-top: 1em;
   border-top: 1px #444 solid;
+}
+
+p.subheader{
+  font-style: italic;
+  margin-top: -1em;
 }
 
 
