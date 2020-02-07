@@ -1,0 +1,83 @@
+
+body{
+  background-color: #b8883c;
+  font-size: 16px;
+  color: #202020;
+  margin: 0;
+}
+
+.spaghetti{
+  background-image: url("spaghetti-yum.jpg");
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  z-index: -1;
+  top: 0;
+}
+
+.post {
+  margin: 5em 18vw;
+  background-color: #ffffff9f;
+  padding: 1.5em;
+  border-radius: 0.25em;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.post p{
+  line-height: 1.45em;
+}
+
+
+.title{
+  margin: 0 2em;
+}
+
+.title h1 {
+  font-size: 4em;
+  margin-bottom: -1.2rem;
+  padding-bottom: 0;
+}
+
+h2 {
+  font-size: 40px;
+  margin-top:-2px;
+  padding-bottom:0px;
+  margin-bottom:-10px;
+}
+
+p.date{
+  font-style: italic;
+  margin-bottom: 2em;
+}
+
+p.bio{
+  font-style: italic;
+  padding-top: 2em;
+  border-top: 1px #444 solid;
+}
+
+
+@media only screen and (max-device-width: 480px) {
+  .title{
+    margin: 0;
+    text-align: center;
+  }
+
+  .title h1 {
+    font-size: 2.7em;
+    margin-bottom: -1rem;
+    padding-bottom: 0;
+  }
+
+  .post {
+    margin: 3em 12px;
+    background-color: #ffffff9f;
+    padding: 1.5em;
+    border-radius: 0.25em;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+
+}
