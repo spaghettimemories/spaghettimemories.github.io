@@ -73,7 +73,7 @@ p.subheader{
 
   .title h1 {
     font-size: 2.7em;
-    margin-bottom: -1rem;
+    margin-bottom: 0;
     padding-bottom: 0;
   }
 
